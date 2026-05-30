@@ -1,0 +1,6 @@
+nivel,nombre,descripcion,ejemplos
+1,Reanimación,Inmediatamente vida en riesgo. Requiere intervención inmediata.,"Paro cardíaco, obstrucción vía aérea, shock, convulsiones activas"
+2,Emergente,Alto riesgo de deterioro. Debe ser visto en <10 min.,"Dolor torácico de causa cardíaca, ACV, sepsis, trauma mayor"
+3,Urgente,Requiere múltiples recursos. Estable pero con riesgo potencial.,"Dolor abdominal moderado, fiebre alta, fractura cerrada"
+4,Menos urgente,Un solo recurso necesario. Estable.,"Infección urinaria no complicada, esguince, cefalea leve"
+5,No urgente,Sin recursos necesarios. Consulta ambulatoria.,"Resfriado común, revisión de medicación, certificado médico"
